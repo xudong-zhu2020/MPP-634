@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## MPP 634
 
-You can use the [editor on GitHub](https://github.com/xudong-zhu2020/MPP634/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi everyone, here is my project of advanced econometircs!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Introduction
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
