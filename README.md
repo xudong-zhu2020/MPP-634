@@ -1,5 +1,3 @@
-## MPP 634
-
 Hi everyone, here is my project of advanced econometircs!
 
 ### Introduction
