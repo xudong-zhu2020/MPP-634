@@ -8,3 +8,7 @@ Parental labor transfer affects left-behind children’s education significantly
 
 The paper is to research how parental transfer affect children’s academic performance overall and to qualify the two disparate influence.
 
+## Literature Review
+Many scholars believe that, parental labor labor will have an impact on the welfare and education of their children. The research on the quantitative relationship between labor transfer and education investment is relatively rich. In contrast, quantitative research on the impact of the parents' concern for their children's learning is not as rich.
+
+Scholars also differ on the definition of left-behind children in China. The article considers children aged 6 to 16 who have not lived together with their father or mother for more than ten months in the previous year as left-behind children.
