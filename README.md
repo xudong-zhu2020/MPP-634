@@ -39,5 +39,7 @@ The dataset comes from the China Family Panel Studies (CFPS) in 2016, including 
 
 #### ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.44.36.png)
 
+#### ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.50.56.png)
 
+https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.50.56.png
 
