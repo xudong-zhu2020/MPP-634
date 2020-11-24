@@ -19,4 +19,4 @@ Scholars differ on the definition of left-behind children in China. The article 
 The dataset comes from the China Family Panel Studies (CFPS) in 2016, including 8427 observations, and 25 variables.
 
 ## Descriptive Statistics
-
+#### ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.19.12.png)
