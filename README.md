@@ -19,3 +19,4 @@ The dataset comes from the China Family Panel Studies (CFPS) in 2016, including 
 
 https://public.tableau.com/views/Book1_16051173926370/Dashboard2?:language=zh-Hans&:display_count=y&:origin=viz_share_link
 
+![image](https://github.com/panacena/mengqu/blob/master/readme/Screenshot_2016-07-10-22-17- 15_zkk.com.mengqu.png) 
