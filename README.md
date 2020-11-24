@@ -22,6 +22,16 @@ The dataset comes from the China Family Panel Studies (CFPS) in 2016, including 
 #### ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.28.02.png)
 
 ## Descriptive Statistics
-#### ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.19.12.png)
+#### ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.32.29.png)
+
+
+## Model
+### (1) Grades = α + β1 Left + β2 Fedu + β3 Medu + β4 Selfept + β5 Parept + β6 Gender + β7 Age + εi                       
+### (2) Eduexp = α + β1 Left + β2 Fedu + β3 Medu + β4 Edustage + β5 Parept + β6 Gender + β7 Finc + εi                     
+### (3) Parcare = α + β1 Left + β2 Fedu + β3 Medu + β4 Edustage+ β5 Parept + β6 Gender + εi  
+
+
+
+
 
 
