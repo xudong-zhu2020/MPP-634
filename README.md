@@ -37,8 +37,7 @@ The dataset comes from the China Family Panel Studies (CFPS) in 2016, including 
 ### Xki =α0 + α1 Z1i + … + α1+m Zmi + αm+1 W1i + … + αm+r Wri + εi
 ### Grades = α + β1 Parcare + β2 Eduexp + β3 Selfept + β4 Gender + β5 Age + εi
 
-#### ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.50.56.png) 
-
+#### ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午10.05.48.png)
 # Policy Recommendation 
 ## Family
 ### More communication and pay enough attention to children's education.
