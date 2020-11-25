@@ -37,8 +37,9 @@ The dataset comes from the China Family Panel Studies (CFPS) in 2016, including 
 ### Grades = α + β1 Parcare + β2 Eduexp + β3 Selfept + β4 Gender + β5 Age + εi
 ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午10.10.43.png)
 
-# Policy Recommendation 
+# Policy Recommendations
 ## Family
+### Avoid long-time separation from children
 ### More communication and pay enough attention to children's education.
 ### Increase education expenditures, especially the investment in extracurricular tutoring.
 
