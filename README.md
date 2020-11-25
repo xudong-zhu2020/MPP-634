@@ -22,21 +22,19 @@ The dataset comes from the China Family Panel Studies (CFPS) in 2016, including 
 ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.28.02.png)
 
 ## Descriptive Statistics
-![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.32.29.png)
+
 [Link](https://public.tableau.com/views/MPP634Project_16063275193690/1_1?:language=zh-Hans&:display_count=y&publish=yes&:origin=viz_share_link)
 
 
 ## Empirical Analysis
-### (1) Grades = α + β1 Left + β2 Fedu + β3 Medu + β4 Selfept + β5 Parept + β6 Gender + β7 Age + εi                       
-### (2) Eduexp = α + β1 Left + β2 Fedu + β3 Medu + β4 Edustage + β5 Parept + β6 Gender + β7 Finc + εi                     
-### (3) Parcare = α + β1 Left + β2 Fedu + β3 Medu + β4 Edustage+ β5 Parept + β6 Gender + εi  
-![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午12.41.13.png)
+## Instrumental rariables regression to reduce endogeneity.
 
 
-### Yi = β0 + β1 X1i + … + βk Xki + βk+1 W1i + … + βk+r Wri + εi
-### Xki =α0 + α1 Z1i + … + α1+m Zmi + αm+1 W1i + … + αm+r Wri + εi
-### Grades = α + β1 Parcare + β2 Eduexp + β3 Selfept + β4 Gender + β5 Age + εi
-![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-26%20上午1.37.27.png)
+
+![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-26%20上午3.22.28.png)
+
+
+
 
 # Policy Recommendations
 ## Family
