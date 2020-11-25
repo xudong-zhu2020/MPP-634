@@ -1,7 +1,7 @@
 Hi everyone, here is my project of advanced econometircs! It is about left-children's education in China.
 
 # Background
-China's urbanization resulted in an enormous labor transfer from to the countryside to cities, creating a large number of left-behind children. The number of left-behind children in rural areas has reached 61.03 million in 2010, accounting for 37.7% of rural children and about 21.88% of all children. Among them, half of them parents of left-behind children go out to work at the same time, which has a significant impact on the welfare and education of left- behind children.
+China's urbanization resulted in an enormous labor transfer from to the countryside to cities, creating a large number of left-behind children. The number of left-behind children in rural areas has reached 61.03 million in 2010, accounting for 37.7% of rural children. Among them, half of them parents of left-behind children go out to work at the same time. Long-term separation from parents significantly affects the welfare and education of left-behind children.
 ![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-25%20上午1.36.44.png) 
 
 # Problem Statement
