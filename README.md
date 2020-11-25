@@ -39,19 +39,19 @@ The dataset comes from the China Family Panel Studies (CFPS) in 2016, including 
 
 # Policy Recommendations
 ## Family
-### Avoid long-time separation from children
-### More communication and pay enough attention to children's education.
-### Increase education expenditures, especially the investment in extracurricular tutoring.
+Avoid long-time separation from children
+More communication and pay enough attention to children's education.
+Increase education expenditures, especially the investment in extracurricular tutoring.
 
 
 ## Governments 
-### Make adjustments in education expenditures
-### Increase education expenditures for left-behind children and meaningful assistance programs
-### Relax restrictions to allow children to receive education in cities and provide affordable education
+Make adjustments in education expenditures
+Increase education expenditures for left-behind children and meaningful assistance programs
+Relax restrictions to allow children to receive education in cities and provide affordable education
 
 
 ## The whole society, especially NGOs. 
-### Organize targeted and meaningful programs, such as homework tutoring
+Organize targeted and meaningful programs, such as homework tutoring
 
 [Link](https://public.tableau.com/views/Book1_16051173926370/Dashboard2?:language=zh-Hans&:display_count=y&:origin=viz_share_link)
 
