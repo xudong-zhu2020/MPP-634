@@ -1,5 +1,3 @@
-![image](https://github.com/xudong-zhu2020/MPP-634/blob/MPP-634/截屏2020-11-26%20上午4.39.18.png)
-
    China's urbanization resulted in an enormous labor transfer from the countryside to cities, which caused the appearance of the left-behind children. 
     
     
