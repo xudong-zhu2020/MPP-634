@@ -7,7 +7,7 @@
    The data used in the paper come from China Family Panel Studies (CFPS) in 2016 that covers about 95% of China's total population.
     
     
-   The article uses four instrumental variables regressions to qualify the overall influence of parental labor transfer on children's academic grades, parents' care for children's study, and family education expenditures. The introduction of instrumental variables regressions is to reduces the impacts of endogeneity caused by omitted variables, simultaneous causality, etc. 
+   The article uses four instrumental variables regressions to quantify the overall influence of parental labor transfer on children's academic grades, parents' care for children's study, and family education expenditures. The introduction of instrumental variables regressions is to reduces the impacts of endogeneity caused by omitted variables, simultaneous causality, etc. 
     
     
    The regression results show that, overall, parental labor transfer caused children's academic performance to reduce by almost 30% after considering other factors, such as parents' education level and so on. The result comes from two ways. First, parental labor transfer indeed led to parents' care for their children's studies by almost 0.28 points (the top grade is 5), which negatively affects children's academic performance. Besides, the paper also qualifies the effect of parents' decreasing care for children's learning: for each unit decrease in care for students' studies, children would get 0.6 points in their examination less. It is the major adverse impact of parental labor transfer. 
